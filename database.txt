@@ -1,2 +1,2 @@
- 1 juice 50 2
- 2 apple 120 2
+ 1234 juice 50 2
+ 5678 shampoo 200 3
